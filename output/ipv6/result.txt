@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-11 18:43:28,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-12 06:37:56,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1307,12 +1307,12 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 江苏教育,https://migu.188766.xyz/?migutoken=7033071779ec5fd7cf46066cc021214c&id=%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2&type=yy
 泗洪新闻综合,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd#http://live1.habctv.com/ggpdsl/sd/live.m3u8
 泰州一套新闻综合,https://stream1.freetv.fun/tai-zhou-yi-tao-xin-wen-zong-he-4.m3u8
-涟水电视台综合,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd#http://live1.habctv.com/ggpdsl/sd/live.m3u8
-涟水电视台综合,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
-涟水电视台综合,http://live1.habctv.com/ggpdsl/sd/live.m3u8
 涟水电视台综合,rtmp://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw
 涟水电视台综合,https://lianshui-tv-hls.cm.jstv.com:443/lianshui-tv/lsxw.m3u8
 涟水电视台综合,http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8?zjiangsd,
+涟水电视台综合,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd#http://live1.habctv.com/ggpdsl/sd/live.m3u8
+涟水电视台综合,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
+涟水电视台综合,http://live1.habctv.com/ggpdsl/sd/live.m3u8
 淮安公共,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd#http://live1.habctv.com/ggpdsl/sd/live.m3u8
 淮安影院娱乐,http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd
 淮安影院娱乐,http://live1.habctv.com/ysylsl/sd/live.m3u8
@@ -1445,13 +1445,13 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 金鹰纪实,http://iptv.huuc.edu.cn/hls/gedocu.m3u8
 金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-1.ctv
 金鹰纪实,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226572/1.m3u8
+金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-22.ctv
 金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-37.m3u8
 金鹰纪实,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226668/index.m3u8
 金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-35.m3u8
 金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-2.ctv
 金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-9.m3u8
 金鹰纪实,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000334/index.m3u8?IASHttpSessionId=
-金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-5.ctv
 湖南金鹰纪实,http://yc.myds.me:35455/itv/5000000011000031203.m3u8?cdn=bestzb
 湖南金鹰纪实,http://nas.suntao.online:35455/itv/5000000011000031203.m3u8?cdn=bestzb
 长沙新闻综合,http://ls.qingting.fm/live/4877.m3u8
