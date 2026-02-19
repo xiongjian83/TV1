@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-19 06:54:22,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-02-19 19:02:51,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -791,6 +791,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 浙江民生,https://t.freetv.fun/live/zhe-jiang-min-sheng-3.m3u8
 浙江民生,https://t.freetv.fun/live/zhe-jiang-min-sheng.m3u8
 浙江民生,https://t.freetv.fun/live/zhe-jiang-min-sheng-4.m3u8
+浙江民生,https://t.freetv.fun/live/zhe-jiang-min-sheng-2.m3u8
 浙江新闻,http://zwebl02.cztv.com/live/channel071080P.m3u8?auth_key=2524708799-0-0-e3b50ca59d2c0883d5386d8bc4cdefbc
 浙江新闻,http://zhfivel02.cztv.com/channel07/1080p.m3u8?auth_key=2524708799-0-0-4af48ba83e791a300595dd0b2bb30e6e
 浙江新闻,http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8
