@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-21 06:46:44,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-02-21 18:46:59,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1929,6 +1929,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 洛阳科教,https://wshlslive.migucloud.com/live/RJ0EYBCZ_C0/playlist.m3u8
 洛阳科教,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226554/index.m3u8
 洛阳文旅,https://wshlslive.migucloud.com/live/CVN934JS_C0/playlist.m3u8
+洛阳文旅,http://wshls.live.migucloud.com/live/Q081CD54_C0/playlist.m3u8
 河南都市,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227241/index.m3u8
 河南都市,https://live.lalifeier.eu.org/hntv/hnds.m3u8?t=1745796321&key=fe18400b0aeee777efcd1e3282435d28
 河南都市,https://live.lalifeier.eu.org/hntv/hnds.m3u8?t=1746307365&key=d2cc347e46058bc7b0e9200005d7f1ca

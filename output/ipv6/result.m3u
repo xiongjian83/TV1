@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/xiongjian83/TV1/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-02-21 06:46:44
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-02-21 18:46:59
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -3783,6 +3783,8 @@ https://wshlslive.migucloud.com/live/RJ0EYBCZ_C0/playlist.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226554/index.m3u8
 #EXTINF:-1 tvg-name="洛阳文旅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/洛阳文旅.png" group-title="☘️河南频道",洛阳文旅
 https://wshlslive.migucloud.com/live/CVN934JS_C0/playlist.m3u8
+#EXTINF:-1 tvg-name="洛阳文旅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/洛阳文旅.png" group-title="☘️河南频道",洛阳文旅
+http://wshls.live.migucloud.com/live/Q081CD54_C0/playlist.m3u8
 #EXTINF:-1 tvg-name="河南都市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南都市.png" group-title="☘️河南频道",河南都市
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227241/index.m3u8
 #EXTINF:-1 tvg-name="河南都市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南都市.png" group-title="☘️河南频道",河南都市
