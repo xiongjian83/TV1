@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-13 06:54:56,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-04-13 19:36:26,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1645,8 +1645,10 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 四川科教,https://stream1.freetv.fun/si-chuan-ke-jiao-1.m3u8
 四川科教,https://stream1.freetv.fun/si-chuan-ke-jiao-3.ctv
 四川科教,https://stream1.freetv.fun/si-chuan-ke-jiao-4.ctv
+四川科教,https://t.freetv.fun/live/si-chuan-ke-jiao.m3u8
 广元综合,https://stream1.freetv.fun/yan-yuan-zong-he-1.m3u8
 广元综合,https://stream1.freetv.fun/yan-yuan-zong-he-2.ctv
+广元综合,https://t.freetv.fun/live/yan-yuan-zong-he-1.m3u8
 康巴卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225660
 康巴卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225856/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 康巴卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225856/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
@@ -1680,6 +1682,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 石棉综合,http://live.hyxrmt.com:85/live/xwpd.m3u8
 筠连综合,http://live.dameijunlian.cn/live1/live1.m3u8
 绵阳科技,https://stream1.freetv.fun/mian-yang-ke-ji-2.m3u8
+绵阳科技,https://t.freetv.fun/live/mian-yang-ke-ji.m3u8
 荥经综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 荥经综合,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
 营山电视台,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
