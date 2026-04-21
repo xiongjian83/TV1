@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-21 07:02:43,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-04-21 19:25:28,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1608,6 +1608,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 广西新闻,https://t.freetv.fun/live/yan-xi-xin-wen.m3u8
 广西新闻,https://t.freetv.fun/live/yan-xi-xin-wen-1.m3u8
 广西新闻,https://t.freetv.fun/live/yan-xi-xin-wen-2.m3u8
+广西新闻,https://t.freetv.fun/live/yan-xi-xin-wen-3.m3u8
 广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
 广西国际,http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=
 广西国际,https://tv.gxtv.cn/channel/channelivePlay_bfa17b64157f11e999f0e41f13b60c62.html
