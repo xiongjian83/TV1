@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-11 07:09:28,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-05-11 20:59:28,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -2619,6 +2619,7 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-10.m3u8
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-6.ctv
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-11.ctv
+星空卫视,https://t.freetv.fun/live/xing-kong-wei-shi-1.m3u8
 东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
 东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-6.ctv
