@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260707231929 +0800">
+<tv date="20260708120841 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -19872,6 +19872,135 @@
 	<programme channel="动漫秀场" start="20260709174300 +0800" stop="20260710000000 +0800">
 		<title lang="zh">野生动物宝宝(24)</title>
 	</programme>
+	<programme channel="动漫秀场" start="20260710000000 +0800" stop="20260710000700 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710000700 +0800" stop="20260710001400 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710001400 +0800" stop="20260710002000 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710002000 +0800" stop="20260710002700 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710002700 +0800" stop="20260710003300 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710003300 +0800" stop="20260710004600 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710004600 +0800" stop="20260710005900 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710005900 +0800" stop="20260710010900 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710010900 +0800" stop="20260710011800 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710011800 +0800" stop="20260710012800 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710012800 +0800" stop="20260710013800 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710013800 +0800" stop="20260710014800 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710014800 +0800" stop="20260710015800 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710015800 +0800" stop="20260710021300 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710021300 +0800" stop="20260710022800 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710022800 +0800" stop="20260710024300 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710024300 +0800" stop="20260710025800 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710025800 +0800" stop="20260710031000 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710031000 +0800" stop="20260710032200 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710032200 +0800" stop="20260710033400 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710033400 +0800" stop="20260710034600 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710034600 +0800" stop="20260710040200 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710040200 +0800" stop="20260710040900 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710040900 +0800" stop="20260710041600 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710041600 +0800" stop="20260710042300 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710042300 +0800" stop="20260710042900 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710042900 +0800" stop="20260710044100 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710044100 +0800" stop="20260710045300 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710045300 +0800" stop="20260710051200 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710051200 +0800" stop="20260710052500 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710052500 +0800" stop="20260710053800 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710053800 +0800" stop="20260710055100 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710055100 +0800" stop="20260710060400 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710060400 +0800" stop="20260710061900 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710061900 +0800" stop="20260710063400 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710063400 +0800" stop="20260710064900 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710064900 +0800" stop="20260710070400 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710070400 +0800" stop="20260710071600 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710071600 +0800" stop="20260710072800 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710072800 +0800" stop="20260710074000 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710074000 +0800" stop="20260710075200 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710075200 +0800" stop="20260710080500 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260710080500 +0800" stop="20260710081200 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
 	<channel id="北京卡酷少儿">
 		<display-name lang="zh">北京卡酷少儿</display-name>
 	</channel>
@@ -23295,11 +23424,8 @@
 	<programme channel="海南卫视" start="20260707232000 +0800" stop="20260708001500 +0800">
 		<title lang="zh">卫视高尔夫</title>
 	</programme>
-	<programme channel="海南卫视" start="20260708001500 +0800" stop="20260708010000 +0800">
+	<programme channel="海南卫视" start="20260708001800 +0800" stop="20260708010000 +0800">
 		<title lang="zh">凌晨剧场</title>
-	</programme>
-	<programme channel="海南卫视" start="20260708010000 +0800" stop="20260708070000 +0800">
-		<title lang="zh">停机检修</title>
 	</programme>
 	<programme channel="海南卫视" start="20260708010000 +0800" stop="20260708070000 +0800">
 		<title lang="zh">停机检修</title>
@@ -23309,6 +23435,9 @@
 	</programme>
 	<programme channel="海南卫视" start="20260708070100 +0800" stop="20260708073300 +0800">
 		<title lang="zh">海南新闻联播</title>
+	</programme>
+	<programme channel="海南卫视" start="20260708073300 +0800" stop="20260708180800 +0800">
+		<title lang="zh">阳光剧场</title>
 	</programme>
 	<programme channel="海南卫视" start="20260708073300 +0800" stop="20260708180800 +0800">
 		<title lang="zh">阳光剧场</title>
@@ -23343,9 +23472,6 @@
 	<programme channel="海南卫视" start="20260709001500 +0800" stop="20260709023500 +0800">
 		<title lang="zh">凌晨剧场</title>
 	</programme>
-	<programme channel="海南卫视" start="20260709001500 +0800" stop="20260709023500 +0800">
-		<title lang="zh">凌晨剧场</title>
-	</programme>
 	<programme channel="海南卫视" start="20260709023500 +0800" stop="20260709030000 +0800">
 		<title lang="zh">潮起海之南</title>
 	</programme>
@@ -23372,6 +23498,9 @@
 	</programme>
 	<programme channel="海南卫视" start="20260709070100 +0800" stop="20260709073300 +0800">
 		<title lang="zh">海南新闻联播</title>
+	</programme>
+	<programme channel="海南卫视" start="20260709073300 +0800" stop="20260709180800 +0800">
+		<title lang="zh">阳光剧场</title>
 	</programme>
 	<programme channel="海南卫视" start="20260709073300 +0800" stop="20260709180800 +0800">
 		<title lang="zh">阳光剧场</title>
