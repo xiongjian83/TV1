@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-27 23:19:56,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-09-28 08:37:15,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
